@@ -1,9 +1,0 @@
-title: Git Repo Analytics
-email: test@test.com
-description: >- 
-  A collection point for GA.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://trustlyinternalsupport.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
-google_analytics: G-1ZPDB6EECN
-author: Tomas Vebr
